@@ -1,0 +1,5 @@
+{
+  "name": "HoloEarth AI (CN)",
+  "description": "3D全息地球科普界面。使用Three.js构建，支持点击交互查看具体地理位置的AI科普信息。",
+  "requestFramePermissions": []
+}
