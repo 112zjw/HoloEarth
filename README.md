@@ -13,7 +13,7 @@ HoloEarth是一个基于 React 和 Three.js 构建的未来派全息地球探索
 
 ### 前置要求
 
-- Node.js 16+ 
+- Node.js 20.19+ 或 22.12+
 - npm 或 yarn
 
 ### 安装依赖
